@@ -13,6 +13,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiyon860" alt="aiyon860" /></a> </p>
 
+![https://github-profile-trophy.vercel.app/?username=aiyon860](https://www.codewars.com/users/Aiyon860/badges/large)
+
 <p align="left"> <a href="https://twitter.com/danielaiyon" target="blank"><img src="https://img.shields.io/twitter/follow/danielaiyon?logo=twitter&style=for-the-badge" alt="danielaiyon" /></a> </p>
 
 - 📫 How to reach me **danieladipratama860@gmail.com**
