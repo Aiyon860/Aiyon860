@@ -25,7 +25,7 @@ I build things that work well and look good, whether that is a complex backend o
 |---|---|
 | **Building** | React and Laravel projects |
 | **Learning** | System design |
-| **Looking for** | Open source projects to collaborate on, and a study partner for data structures and algorithms |
+| **Looking for** | Open source projects to collaborate on, and a teammate for competitions |
 | **Ask me about** | Full-stack development |
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg" /><img src="assets/h-projects-light.svg" alt="Projects" /></picture></h2>
@@ -45,13 +45,13 @@ Notes on backend engineering, JavaScript, and Python, in English and Bahasa Indo
 | | |
 |---|---|
 | **Languages** | `JavaScript` `TypeScript` `Python` `C` `PHP` `SQL` |
-| **Frameworks** | `React` `Next.js` `Laravel` `Express` |
-| **Tools** | `Git` `Docker` `Linux` `VPS` `Postman` `Prisma` `Supabase` |
+| **Frameworks** | `React` `Vue` `Next.js` `Nuxt.js` `Laravel` `Express` |
+| **Tools** | `Git` `Docker` `Linux` `VPS` `Postman` `Prisma` `Supabase` `Cloudflare` `Tigris` |
 | **Database** | `MySQL` `PostgreSQL` `SQLite` |
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-contact-dark.svg" /><img src="assets/h-contact-light.svg" alt="Contact" /></picture></h2>
 
-`contact@danielaiyon.net`
+[contact@danielaiyon.net](mailto:contact@danielaiyon.net)
 
 [GitHub](https://github.com/Aiyon860) &nbsp;/&nbsp; [LinkedIn](https://linkedin.com/in/danielaiyon) &nbsp;/&nbsp; [X](https://twitter.com/DanielAiyon) &nbsp;/&nbsp; [Instagram](https://instagram.com/danielaiyon)
 
