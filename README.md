@@ -1,50 +1,59 @@
-# Hi 👋, I'm Daniel Aiyon
+<table>
+<tr>
+<td valign="top" width="62%">
 
-### An Experienced Fullstack Developer
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" /><img src="assets/hero-light.svg" alt="Daniel Aiyon. Software engineer focused on systems architecture and crafting resilient applications from front to back." /></picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aiyon860" alt="Aiyon860" /> </p>
+`Semarang, Indonesia` &nbsp; `Politeknik Negeri Semarang`
 
-<p align="left"> <a href="https://twitter.com/DanielAiyon" target="blank"><img src="https://img.shields.io/twitter/follow/DanielAiyon?logo=twitter&style=for-the-badge" alt="DanielAiyon" /></a> </p>
+<a href="https://danielaiyon.net"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg" /><img src="assets/btn-portfolio-light.svg" alt="Visit portfolio" /></picture></a> <a href="https://danielaiyon.net/resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-resume-dark.svg" /><img src="assets/btn-resume-light.svg" alt="View resume" /></picture></a>
 
-- 🔭 I'm currently working on **React and Laravel Projects**
+</td>
+<td valign="middle" align="center" width="38%">
 
-- 🌱 I'm currently learning **System Design**
+<img src="https://github.com/Aiyon860.png?size=400" alt="Daniel Aiyon" width="230" />
 
-- 👯 I'm looking to collaborate on **Open Source Projects**
+</td>
+</tr>
+</table>
 
-- 🤝 I'm looking for help with **Data Structures & Algorithms**
+I build things that work well and look good, whether that is a complex backend or a slick interface. Every project taught me something new about how systems work under the hood, and that is what keeps me going.
 
-- 💬 Ask me about **Fullstack Development**
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-now-dark.svg" /><img src="assets/h-now-light.svg" alt="Now" /></picture></h2>
 
-- 📫 How to reach me **danieladipratama860@gmail.com**
+|  |  |
+|---|---|
+| **Building** | React and Laravel projects |
+| **Learning** | System design |
+| **Looking for** | Open source projects to collaborate on, and a teammate for competitions |
+| **Ask me about** | Full-stack development |
 
-- ⚡ Fun fact **I eat many foods regardless of skinny i am.**
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg" /><img src="assets/h-projects-light.svg" alt="Projects" /></picture></h2>
 
-- 👨‍💻 All of my projects are available at **[https://danielaiyon.net](https://danielaiyon.net)**
+Web apps, backend APIs, and experiments, from AI-powered tools to Indonesian folklore visual novels.
 
-- 📝 I regularly write articles on **[https://danielaiyon.net/blogs](https://danielaiyon.net/blogs)**
+<a href="https://danielaiyon.net/projects" target="_blank" rel="noopener noreferrer"><b>Browse all projects</b></a>
 
-- 📄 Know about my experiences **[https://danielaiyon.net/resume.pdf](https://danielaiyon.net/resume.pdf)**
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-writing-dark.svg" /><img src="assets/h-writing-light.svg" alt="Writing" /></picture></h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Aiyon860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Aiyon860" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/danielaiyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielaiyon" height="30" width="40" /></a>
-<a href="https://instagram.com/danielaiyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielaiyon" height="30" width="40" /></a>
-<a href="https://twitter.com/DanielAiyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DanielAiyon" height="30" width="40" /></a>
-</p>
+Notes on backend engineering, JavaScript, and Python, in English and Bahasa Indonesia.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/babel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/d3js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scala" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scala" alt="scala" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<a href="https://danielaiyon.net/blogs" target="_blank" rel="noopener noreferrer"><b>Read all articles</b></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aiyon860&" alt="Aiyon860" /></p>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg" /><img src="assets/h-stack-light.svg" alt="Stack" /></picture></h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aiyon860&theme=zenburn)
+| | |
+|---|---|
+| **Languages** | `JavaScript` `TypeScript` `Python` `C` `PHP` `SQL` |
+| **Frameworks** | `React` `Vue` `Next.js` `Nuxt.js` `Laravel` `Express` |
+| **Tools** | `Git` `Docker` `Linux` `VPS` `Postman` `Prisma` `Supabase` `Cloudflare` `Tigris` |
+| **Database** | `MySQL` `PostgreSQL` `SQLite` |
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aiyon860&theme=zenburn)
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-contact-dark.svg" /><img src="assets/h-contact-light.svg" alt="Contact" /></picture></h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aiyon860&theme=zenburn)
+[contact@danielaiyon.net](mailto:contact@danielaiyon.net)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aiyon860&theme=zenburn)
+[GitHub](https://github.com/Aiyon860) &nbsp;/&nbsp; [LinkedIn](https://linkedin.com/in/danielaiyon) &nbsp;/&nbsp; [X](https://twitter.com/DanielAiyon) &nbsp;/&nbsp; [Instagram](https://instagram.com/danielaiyon)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aiyon860&theme=zenburn&utcOffset=8)
+Building systems that matter, one commit at a time.
+Writing code from Semarang, Indonesia. Fun fact: I eat a lot, regardless of how skinny I am.
