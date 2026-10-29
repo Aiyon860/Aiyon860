@@ -23,7 +23,7 @@ I build things that work well and look good, whether that is a complex backend o
 
 |  |  |
 |---|---|
-| **Building** | React and Laravel projects |
+| **Building** | React, Nuxt, and Laravel projects |
 | **Learning** | System design |
 | **Looking for** | Open source projects to collaborate on, and a teammate for competitions |
 | **Ask me about** | Full-stack development |
