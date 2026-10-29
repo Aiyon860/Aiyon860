@@ -9,7 +9,7 @@
 <a href="https://danielaiyon.net"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg" /><img src="assets/btn-portfolio-light.svg" alt="Visit portfolio" /></picture></a> <a href="https://danielaiyon.net/resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-resume-dark.svg" /><img src="assets/btn-resume-light.svg" alt="View resume" /></picture></a>
 
 </td>
-<td valign="top" align="center" width="38%">
+<td valign="middle" align="center" width="38%">
 
 <img src="https://github.com/Aiyon860.png?size=400" alt="Daniel Aiyon" width="230" />
 
